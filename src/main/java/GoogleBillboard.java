@@ -9,7 +9,7 @@ public class GoogleBillboard {
 
     // Check if the number is prime and display it if it is
     if (isPrime(dNum)) {
-      System.out.println(digits);
+      System.out.println(dNum);
       break;  // Stop the loop once the first prime is found
     }
   }
